@@ -1,0 +1,629 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 16, 2017, 3:39:34 PM
+    Author     : poonam
+*/
+ 
+        @media  screen and (width: 360px)  {
+            .modal.fade.in {
+                   top: 10% !important;;
+                }    
+            .hide4Mobile {
+                   display: none !important;
+               }   
+                
+            .delayright-badge {
+                margin-top: -37px;
+                margin-left: 150px;
+            }
+            .delayright-badge360{
+                margin-top: -55px !important;
+                margin-left: 176px !important;
+            }
+            .delayinput{
+                margin-left: 0px!important; 
+                margin-top: 0px!important; 
+            }
+            .delayTooltipFilter360px{
+                margin-left: 226px !important;
+            }
+            .delayButton{
+                margin-left: 15%!important;
+                width:36% !important;
+            }
+            .needResponsive1{
+                padding-left: 0%!important;
+            }
+            .needResponsiveOuter{
+                margin-left: 0px!important;
+            }
+            .needResponsivetext{
+                padding-left: 0px!important;
+            }
+            div.colResponsive{
+                   padding-right: 0px!important;
+                   padding-left: 0px!important;
+               }  
+            .delayBtnVal{
+                margin-left: 30px !important;
+            }
+            .delayBtnInv{
+                margin-left: 30px !important;
+            }
+	}
+         
+        /* display 412 start */  
+        @media  screen and (width: 412px) {
+              .modal.fade.in {
+                   top: 10% !important;
+                }   
+                .hide4Mobile {
+                    display: none !important;
+                }
+                .delayright-badge360{
+                    margin-top: -55px !important;
+                    margin-left: 227px !important;
+                }
+                .delayinput{
+                    margin-left: 0px!important; 
+                    margin-top: 0px!important; 
+                }
+                .delayTooltipFilter360px{
+                    margin-left: 270px !important;
+                }
+                 .delayButton{
+                    margin-left: 22%!important;
+                    
+                }
+                .needResponsive1{
+                    padding-left: 0%!important;
+                }
+                .needResponsiveOuter{
+                    margin-left: 0px!important;
+                }
+                .needResponsivetext{
+                    padding-left: 0px!important;
+                }
+                .delayBtnVal{
+                    margin-left: 55px !important;
+                }
+                .delayBtnInv{
+                    margin-left: 55px !important;
+                }
+	}
+        /*display 412 end */
+        
+          /* device size  640 start*/
+        @media  screen and (width: 640px) {
+           .modal.fade.in {
+                   top: 10% !important;;
+                }
+            .hide4Mobile {
+                    display: none !important;
+                }    
+            .delayright-badge360{
+                    margin-top: -56px !important;
+                    margin-left: 454px !important;
+                }
+            .delayinput{
+                margin-left: 0px!important; 
+                margin-top: 0px!important; 
+            }
+            .delayTooltipFilter360px{
+                margin-left: 496px  !important;
+            }
+            .delayButton{
+                margin-left: 30%!important;
+                width: 28%!important;
+            }
+             .needResponsive1{
+                padding-left: 0%!important;
+            }
+            .needResponsiveOuter{
+                margin-left: 50px!important;
+            }
+            .needResponsivetext{
+                padding-left: 0px!important;
+            }
+            .colResponsive{
+                padding-right: 0px!important;
+                padding-left: 0px!important;
+            }
+            .delaytextboxVal{
+                margin-top: 0px !important;
+            }
+            .delayBtnVal{
+                margin-left: 112px !important;
+            }
+            .delayBtnInv{
+                margin-left: 112px !important;
+            }
+             
+        }
+        /*device size 640 ends here */
+        
+        
+          /* Display device 684 start*/
+        @media  screen and (width:684px) {
+            .modal.fade.in {
+                   top: 10% !important;;
+                }
+            .hide4Mobile {
+                    display: none !important;
+                }
+            .delayright-badge360{
+                    margin-top: -59px !important;
+                    margin-left: 498px !important;
+                 }
+           .delayinput{
+                    margin-left: 0px!important; 
+                    margin-top: 0px!important; 
+                }
+            .delayTooltipFilter360px{
+                    margin-left: 540px !important;
+                }
+            .delayButton{
+                    margin-left: 30%!important;
+                    width: 28% !important;
+                }
+             .needResponsive1{
+                padding-left: 0%!important;
+            }
+            .needResponsiveOuter{
+                margin-left: 85px!important;
+            }
+            .needResponsivetext{
+                padding-left: 0px!important;
+            }
+            .delaytextboxVal{
+                margin-top: 0px !important;
+            }
+            .delayBtnVal{
+                margin-left: 112px !important;
+            }
+            .delayBtnInv{
+                margin-left: 112px !important;
+            }
+	}
+        /*Display device 684 end  */
+        
+         /* Display device 732 start*/
+        @media  screen and (width:732px) {
+            .modal.fade.in {
+                   top: 10% !important;;
+                }
+            .hide4Mobile {
+                    display: none !important;
+                }
+            .delayright-badge360{
+                margin-top: -57px !important;
+                margin-left: 546px !important;
+            }
+            .delayinput{
+                margin-left: 0px!important; 
+                margin-top: 0px!important; 
+            }
+            .delayTooltipFilter360px{
+                margin-left: 588px !important;
+            }
+             .delayButton{
+                    margin-left: 30%!important;
+                    width: 28% !important;
+            }
+             .needResponsive1{
+                padding-left: 0%!important;
+            }
+            .needResponsiveOuter{
+                margin-left: 90px!important;
+            }
+            .needResponsivetext{
+                padding-left: 0px!important;
+            }
+            .colResponsive{
+                padding-right: 0px!important;
+                padding-left: 0px!important;
+            }
+            .delaytextboxVal{
+                margin-top: 0px !important;
+            }
+             .delayBtnVal{
+                margin-left: 112px !important;
+            }
+            .delayBtnInv{
+                margin-left: 112px !important;
+            }
+	}
+        /*Display device 684 end  */
+        
+        /* Display device( I Phone 5) 320 start*/
+        
+         @media  screen and (width:320px) {
+             .modal.fade.in {
+                   top: 10% !important;;
+                }
+                .hide4Mobile {
+                    display: none !important;
+                }
+                .delayright-badge360{
+                    margin-top: -55px !important;
+                    margin-left: 134px !important;
+                }
+                .delayinput{
+                    margin-left: 0px!important; 
+                    margin-top: 0px!important; 
+                }
+                .delayTooltipFilter360px{
+                    margin-left: 177px !important;
+                }
+                 .delayButton{
+                    margin-left: 10%!important;
+                    width:45% !important;
+                }
+                .needResponsive1{
+                    padding-left: 0%!important;
+                }
+                .needResponsiveOuter{
+                    margin-left: 0px!important;
+                }
+                .needResponsivetext{
+                    padding-left: 0px!important;
+                }
+                .colResponsive{
+                    padding-right: 0px!important;
+                    padding-left: 0px!important;
+                }
+             
+	}
+        
+        /* Display device( I Phone 5) 320 ends*/
+        
+        
+         /* Display device( I Phone 5) 568 start*/
+          @media  screen and (width:568px) {
+              .modal.fade.in {
+                   top: 10% !important;;
+                }
+                .hide4Mobile {
+                    display: none !important;
+                }
+                .delayright-badge360{
+                    margin-top: -56px !important;
+                    margin-left: 383px !important;
+                }
+                .delayinput{
+                    margin-left: 0px!important; 
+                    margin-top: 0px!important; 
+                }
+                .delayTooltipFilter360px{
+                    margin-left: 424px !important
+                }
+                 .delayButton{
+                    margin-left: 32%!important;
+                }
+                 .needResponsive1{
+                    padding-left: 0%!important;
+                }
+                .needResponsiveOuter{
+                    margin-left: 0px!important;
+                }
+                .needResponsivetext{
+                    padding-left: 0px!important;
+                }
+                .colResponsive{
+                    padding-right: 0px!important;
+                    padding-left: 0px!important;
+                }
+                .delaytextboxVal{
+                    margin-top: 0px !important;
+                }
+                .delayBtnVal{
+                    margin-left: 117px !important;
+                }
+                .delayBtnInv{
+                    margin-left: 117px !important;
+                }
+              
+	}
+        
+         /* Display device( I Phone 5) 568 ends*/
+        
+        /* Display device( I Phone 5) 375 start*/
+          @media  screen and (width:375px) {
+              .modal.fade.in {
+                   top: 10% !important;;
+                }                   
+                .hide4Mobile {
+                    display: none !important;
+                }
+                .delayright-badge360{
+                    margin-top: -57px !important;
+                    margin-left: 189px !important;
+                }
+                .delayinput{
+                    margin-left: 0px!important; 
+                    margin-top: 0px!important; 
+                }
+                .delayTooltipFilter360px{
+                    margin-left: 231px !important;
+                }
+                .delayButton{
+                    margin-left: 17%!important;
+                    width: 35% !important;
+                }
+                .needResponsive1{
+                    padding-left: 0%!important;
+                }
+                .needResponsiveOuter{
+                    margin-left: 0px!important;
+                }
+                .needResponsivetext{
+                    padding-left: 0px!important;
+                }
+	}
+         /* Display device( I Phone 5) 375 ends*/
+         
+          /* Display device( I Phone 5) 667 start*/
+          @media  screen and (width:667px) {
+              .modal.fade.in {
+                   top: 10% !important;;
+                }
+              .hide4Mobile {
+                    display: none !important;
+                }
+                .delayright-badge360{
+                    margin-top: -56px !important;
+                    margin-left: 481px !important;
+                }
+                .delayinput{
+                    margin-left: 0px!important; 
+                    margin-top: 0px!important; 
+                }
+                .delayTooltipFilter360px{
+                    margin-left: 523px !important;
+                }
+                 .delayButton{
+                     margin-left: 30%!important;
+                     width: 28% !important;
+                }
+                 .needResponsive1{
+                    padding-left: 0%!important;
+                }
+                .needResponsiveOuter{
+                    margin-left: 50px!important;
+                }
+                .needResponsivetext{
+                    padding-left: 0px!important;
+                }
+                .colResponsive{
+                    padding-right: 0px!important;
+                    padding-left: 0px!important;
+                }
+                 .delaytextboxVal{
+                    margin-top: 0px !important;
+                }
+                .delayBtnVal{
+                    margin-left: 115px !important;
+                }
+                .delayBtnInv{
+                    margin-left: 115px !important;
+                }
+	}
+         /* Display device( I Phone 5) 667 ends*/
+         
+         
+         /* Display device( I Phone 5) 414 start*/
+          @media  screen and (width:414px) {
+              .modal.fade.in {
+                   top: 10% !important;;
+                }
+                .hide4Mobile {
+                    display: none !important;
+                }
+                .delayTooltipFilter360px{
+                    margin-left: 270px !important;
+                }
+                .delayright-badge360{
+                    margin-top: -56px !important;
+                    margin-left: 228px !important;
+                }
+                 .delayinput{
+                    margin-left: 0px!important; 
+                    margin-top: 0px!important; 
+                }
+                .delayButton{
+                    margin-left: 20%!important;
+                }
+                .needResponsive1{
+                    padding-left: 0%!important;
+                }
+                .needResponsiveOuter{
+                    margin-left: 20px!important;
+                }
+                .needResponsivetext{
+                    padding-left: 0px!important;
+                }
+              
+	}
+         /* Display device( I Phone 5) 667 ends*/
+         
+          /* Display device( I Phone 5) 736 start*/
+           @media  screen and (width:736px) {
+               .modal.fade.in {
+                   top: 10% !important;;
+                }
+                .hide4Mobile {
+                    display: none !important;
+                }
+                .delayTooltipFilter360px{
+                    margin-left: 594px !important;
+                }
+                .delayright-badge360{
+                    margin-top: -56px !important;
+                    margin-left: 550px !important;
+                }
+                 .delayinput{
+                    margin-left: 0px!important; 
+                    margin-top: 0px!important; 
+                }
+                .delayButton{
+                    margin-left: 30%!important;
+                    width: 28%!important;
+                }
+                .needResponsive1{
+                    padding-left: 0%!important;
+                }
+                .needResponsiveOuter{
+                    margin-left: 70px!important;
+                }
+                .needResponsivetext{
+                    padding-left: 0px!important;
+                }
+                .delaytextboxVal{
+                    margin-top: 0px !important;
+                }
+                .delayBtnVal{
+                    margin-left: 126px !important;
+                }
+                .delayBtnInv{
+                    margin-left: 126px !important;
+                }
+               
+	}
+         /* Display device( I Phone 5) 736 ends*/
+         
+         
+         /* Display device( I Phone 5) 768 start*/
+           @media  screen and (width:768px) {
+               .modal.fade.in {
+                   top: 10% !important;;
+                }
+               .delaymblsize768
+               {
+                   width: 50% !important;
+               }
+               /*.hide4Mobile {
+                    display: none !important;
+                }*/
+                .delayinput{
+                    margin-left: 0px!important; 
+                    margin-top: 0px!important; 
+                }
+                .delayButton{
+                    margin-left: 45%!important;
+                }
+                .delaytextbox {
+                    width: 34% !important;
+                }
+                .delayright-badge360{
+                    margin-top: -56px !important;
+                    margin-left: 107px !important
+                }
+                .delayTooltipFilter360px{
+                    margin-left: 151px !important;
+                }
+                .needResponsive1{
+                    padding-left: 0%!important;
+                }
+                .needResponsiveOuter{
+                    margin-left: 0px!important;
+                    text-align: center !important;
+                }
+                .needResponsivetext{
+                    padding-left: 0px!important;
+                }
+	}
+         /* Display device( I Phone 5) 768 ends*/
+         
+         /* Display device( ipad pro) 1024px start*/
+          @media  screen and (width:1024px) {
+              .modal.fade.in {
+                   top: 10% !important;
+                }
+                .delayright-badge360{
+                    margin-top: -58px !important;
+                    margin-left: 271px !important;
+                }
+                .delayTooltipFilter360px{
+                    margin-left:320px !important;
+                }
+                .delayinput{
+                    margin-left: 0px!important; 
+                    margin-top: 0px!important; 
+                }
+                .delaytextboxVal{
+                    margin-top: 0px !important;
+                }
+                .delayBtnVal{
+                    margin-left: 103px !important;
+                }
+                .delayBtnInv{
+                    margin-left: 103px !important;
+                }
+                .needResponsiveOuter{
+                    margin-left: -35px !important;
+                    text-align: center !important;
+                }
+                #btn_calcDelay{
+                    margin-left: 66% !important;
+                }
+                .needResponsive1{
+                    padding-left: 0px !important;
+                }
+                .delay_1024{
+                    padding-left: 127px !important;
+                }
+	}
+        
+      /*-------- sip-o-meter end here--------------  */       
+             
+        @media  screen and (width: 500px){
+            .modal.fade.in {
+                top: 10% !important;;
+             }
+             .hide4Mobile {
+                    display: none !important;
+                }
+		
+	}
+           
+        
+        .smallResultDisplay{
+            margin-left:7% !important;
+            display: table !important;
+            
+        }
+        
+        .resizeTextbox{
+            margin-left:172px !important;
+            
+        }
+        
+        .setSmallMargnResultDiv{
+            
+            padding-top:10px;margin-left:50px !important;
+            
+        }
+        
+         .setBigMargnResultDiv{
+            
+            padding-top:10px;margin-left:70px !important;
+            
+        }
+        
+        
+        /*.RemovesmallResultDisplay{
+         
+            display: none !important;
+            
+        }*/
+        
+        
+        .SipOmtereAlgin
+        {
+            padding-left:100px;
+        }
+        

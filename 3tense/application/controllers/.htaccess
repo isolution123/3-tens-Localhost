@@ -1,0 +1,11 @@
+AuthUserFile /home/threetense/.htpasswds/.htpasswd
+AuthType Basic
+AuthName "My Secret Page"
+
+<Files "Scripts.php">
+  Require valid-user
+</Files>
+
+<Files "Equity_scripts.php">
+  Require valid-user
+</Files>

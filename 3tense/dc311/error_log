@@ -1,0 +1,2 @@
+[03-Jul-2019 17:43:54 Asia/Kolkata] PHP Warning:  file_put_contents(/external_files/1.jpeg): failed to open stream: No such file or directory in /home/threetense/public_html/dc311/process.php on line 32
+[03-Jul-2019 17:45:03 Asia/Kolkata] PHP Warning:  file_put_contents(/external_files/1.jpeg): failed to open stream: No such file or directory in /home/threetense/public_html/dc311/process.php on line 32

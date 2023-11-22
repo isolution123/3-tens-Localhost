@@ -1,0 +1,171 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 5, 2017, 12:09:27 PM
+    Author     : vinod
+*/
+            /*vinod calculators*/
+@media only screen and (width: 412px ),  only screen and (width: 414px ){
+		div.hide4Mobile {
+			display:none;
+		}
+
+                
+/*                  div.modal-dialog
+                  {
+                      width:100% !important;
+}*/
+a.tooltipFilter{
+                    margin-left: 220px !important;
+                    top:6px !important;
+                    margin-top:3px;
+                    position: absolute;
+                }
+                
+                .right-badge{
+                    margin-left: 170px !important;
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left: 138px;
+                }
+                      
+                  
+                
+                    
+		
+	}
+        
+        
+        @media only screen and (max-device-width: 360px) {
+		div.hide4Mobile {
+			display:none;
+		}
+
+/*                a.tooltipFilter{
+                    margin-left: 220px !important;
+                    top:6px !important;
+                    margin-top:3px;
+                    position: absolute;
+                }
+                
+                .right-badge{
+                    margin-left: 170px !important;
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left: 138px;
+                }
+                
+                .mob-padding{
+                    padding-right: 20px !important;
+                }
+                
+                .calculate_btn{
+                    margin-left: 17% !important;
+                    margin-top: 5% !important;
+                    width:38% !important;
+                }
+                .reset_btn{
+                    margin-top: 25px !important;
+                    margin-bottom: 5% !important;
+                }
+                
+                .mrg_output{
+                        padding-top: 10px !important;
+                        margin-left: 70px !important; 
+                }*/
+                
+                
+		
+	}
+        
+        
+      @media only screen and (min-width: 768px), only screen and (max-device-width: 768px){
+		div.hide4Mobile {
+			display:none !important;
+		}
+                
+               div.mblSize {
+			 width: 50% !important;
+		} 
+               
+                
+                /*#chrtPi{display: none};
+
+                
+                 
+                  div.modal-dialog
+                  {
+                      width:100% !important;
+                      
+                  }*/
+		
+	}  
+        
+        
+     /*  @media (max-width: 360px) {
+            .modal-dialog { width: 360px !important; }
+          }*/
+        
+        
+        
+        
+        
+        
+        .smallResultDisplay{
+            margin-left:7% !important;
+            display: table !important;
+            
+        }
+        
+        .resizeTextbox{
+            margin-left:172px !important;
+            
+        }
+        
+        .setSmallMargnResultDiv{
+            
+            padding-top:10px;margin-left:50px !important;
+            
+        }
+        
+         .setBigMargnResultDiv{
+            
+            padding-top:10px;margin-left:70px !important;
+            
+        }
+        
+        
+        .RemovesmallResultDisplay{
+         
+            display: none !important;
+            
+        }
+        
+        
+        .SipOmtereAlgin
+        {
+            padding-left:100px;
+        }
+        
+ /*vinod calculators ends*/       

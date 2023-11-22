@@ -1,0 +1,1529 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 5, 2017, 12:09:27 PM
+    Author     : vinod
+*/
+            /*vinod calculators*/
+
+        /*-------- PV start here--------------  */     
+       @media  screen and (width: 360px)  {
+		
+           
+           
+           
+           div.hide4Mobile {
+			display:none;
+		}
+                .a-PV-month-360{
+                    margin-left: 220px !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-PV-360{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 170px !important;
+                    padding-right: 11px !important;
+                }
+                .mob-padding-PV-360{
+                    padding-right: 10px !important;
+                }
+                
+               .calculate_btn-PV-360{
+                    margin-left: 15% !important;
+                    margin-top: 5% !important;
+                    width:50% !important;
+                }
+                .reset_btn-PV-360{
+                    margin-top: 25px !important;
+                    margin-bottom:  15% !important;
+                }
+                .a-PV-expt-360{
+                     margin-left: 212px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                }
+               
+        
+                .right-badge:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .pvFAmnt-360{
+                   margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+                
+                .aMnt-PV-360{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-PV-360{
+                    
+                    padding-right:19px  !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+    
+                
+	}
+        
+        
+        
+        
+         
+        /* display 412 start */  
+          @media  screen and (width: 412px) {
+		
+               .pvFAmnt-412{
+                    margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+              
+              div.hide4Mobile {
+			display:none;
+		}
+                .a-PV-month-412{
+                    margin-left: 272px !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-PV-412{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left: 222px;
+                    padding-right: 12px !important;
+                }
+                .mob-padding-PV-412{
+                    padding-right: 20px !important;
+                }
+                
+                .calculate_btn-PV-412{
+                    margin-left: 15% !important;
+                    margin-top: 5% !important;
+                    width:50% !important;
+                }
+                .reset_btn-PV-412{
+                    margin-top: 28px !important;
+                    margin-bottom: 15% !important;
+                }
+		
+                .a-PV-expt-sip-412{
+                     margin-left: 262px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                }
+               
+                .right-badge-PV-412:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-PV-412{
+                    padding-right: 10px !important;
+                }
+                
+                .aMnt-PV-412{
+                    
+                        margin-left: 269px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-PV-412{
+                    
+                    padding-right:19px !important;
+                }
+                #TblFutureVal{
+                    display: none;
+                }
+                 #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                
+	}
+        /*display 412 end */
+        
+          /* device size  640 start*/
+       @media  screen and (width: 640px) {
+		
+           .pvFAmnt-640{
+                    margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+           
+           div.hide4Mobile {
+			display:none;
+		}
+                .a-PV-month-640{
+                    margin-left: 500px !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                
+                
+                #MonthSIP-o-meter-month-640
+                {
+                    margin-top: 0px !important; 
+                    
+                }
+                
+                .right-badge-PV-640{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left: 455px;
+                }
+                .mob-padding-PV-month-640{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-PV-month-640{
+                    margin-left: 28% !important;
+                    margin-top: 5% !important;
+                    width:28% !important;
+                }
+                .reset_btn-PV-month-640{
+                    margin-top: 25px !important;
+                    margin-bottom: 0% !important;
+                }
+                .a-PV-expt-640{
+                     margin-left: 490px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                }
+               
+        
+                .right-badge-o-meter-month-640:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-o-meter-month-640{
+                    padding-right: 10px !important;
+                }
+                
+                .PV-640{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+                
+                .calculate_btn-PV-640{
+                      margin-left: 30% !important;
+                      margin-top: 0% !important;
+                       width: 28% !important;
+                }
+                .reset_btn-PV-640{
+                    margin-top: 27px !important;
+                    margin-bottom: 15% !important;
+                }
+                
+                
+                
+                
+                
+                
+                
+                .aMnt-o-meter-month-640{
+                    
+                        margin-left: 498px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-PV-640{
+                    
+                    padding-right:19px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                
+    
+                
+	}        
+        /*device size 640 ends here */
+        
+        
+          /* Display device 684 start*/
+          @media  screen and (width:684px) {
+		.pvFAmnt-684{
+                  margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+              
+              
+              div.hide4Mobile {
+			display:none;
+		}
+                .a-PV-month-684{
+                    margin-left: 544px  !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-PV-684{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left: 494px;
+                    padding-right: 12px !important;
+                }
+                .mob-padding-PV-684{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-PV-684{
+                    margin-left: 30% !important;
+                    margin-top: 0% !important;
+                    width:28% !important;
+                }
+                .reset_btn-PV-684{
+                       margin-top: 24px !important;
+                       margin-bottom: 14% !important;
+                }
+                .a-PV-expt-PV-684{
+                     margin-left: 542px  !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .PV-684{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-PV-684:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-PV-684{
+                    padding-right: 10px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-PV-684{
+                    
+                    padding-right:19px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 120px !important;
+                    
+                }
+	}
+        /*Display device 684 end  */
+        
+         /* Display device 732 start*/
+          @media  screen and (width:732px) {
+		.pvFAmnt-732{
+                   margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+              
+              
+              
+              div.hide4Mobile {
+			display:none;
+		}
+                .a-PV-month-732{
+                    margin-left: 592px  !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-PV-732{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left: 542px;
+                    padding-right: 12px !important;
+                }
+                .mob-padding-PV-732{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-PV-732{
+                    margin-left: 30% !important;
+                    margin-top: 0% !important;
+                    width:28% !important;
+                }
+                .reset_btn-PV-732{
+                       margin-top: 24px !important;
+                       margin-bottom: 14%  !important;
+                }
+                .a-PV-expt-PV-732{
+                     margin-left: 589px    !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .PV-732{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-PV-732:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-PV-732{
+                    padding-right: 10px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-PV-732{
+                    
+                    padding-right:19px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 120px !important;
+                    
+                }
+	}
+        /*Display device 684 end  */
+        
+        
+        
+        /* Display device( I Phone 5) 320 start*/
+        
+         @media  screen and (width:320px) {
+		.pvFAmnt-320{
+                   margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+             
+             
+             div.hide4Mobile {
+			display:none;
+		}
+                .a-PV-month-320{
+                   
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                        right: -10px;
+                }
+                .right-badge-PV-320{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    left: -5px;
+                    padding-right: 12px !important;
+                }
+                .mob-padding-PV-320{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-PV-320{
+                    margin-left: 15% !important;
+                    margin-top: 0% !important;
+                    width:43% !important;
+                }
+                .reset_btn-PV-320{
+                       margin-top: 24px !important;
+                       margin-bottom: 22% !important;
+                }
+                .a-PV-expt-PV-320{
+                     margin-left: 179px      !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .PV-320{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-PV-320:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-PV-320{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-PV-320{
+                    
+                    padding-right:20px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:100% !important;
+                }
+	}
+        
+        /* Display device( I Phone 5) 320 ends*/
+        
+        
+         /* Display device( I Phone 5) 568 start*/
+          @media  screen and (width:568px) {
+		
+              .pvFAmnt-568{
+                  margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+              
+              
+              div.hide4Mobile {
+			display:none;
+		}
+                .a-PV-month-568{
+                   
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                    right: -10px;
+                    margin-left: 425px !important;
+                }
+                .right-badge-PV-568{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:378px;
+                    padding-right: 12px !important;
+                }
+                .mob-padding-PV-568{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-PV-568{
+                   /* margin-left: 15% !important;
+                    margin-top: 0% !important;
+                    width:43% !important;*/
+                    
+                    margin-left: 26% !important;
+                     margin-top: 5% !important;
+                     width: 20% !important;
+                }
+                .reset_btn-PV-568{
+                         margin-top: 22px !important;
+                         margin-bottom: 10% !important;
+                }
+                .a-PV-expt-PV-568{
+                     margin-left: 427px            !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .PV-568{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-PV-568:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-PV-568{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-PV-568{
+                    
+                    padding-right:19px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 125px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:200px !important;
+                }
+	}
+        
+         /* Display device( I Phone 5) 568 ends*/
+        
+        /* Display device( I Phone 5) 375 start*/
+          @media  screen and (width:375px) {
+		
+               .pvFAmnt-375{
+                   margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+              
+              div.hide4Mobile {
+			display:none;
+		}
+                .a-PV-month-375{
+                   
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                    right: -10px;
+                    margin-left: 230px !important;
+                }
+                .right-badge-PV-375{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:184px;
+                    padding-right: 12px !important;
+                }
+                
+                .a-PV-expt-PV-375{
+                     margin-left: 233px            !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .mob-padding-PV-375{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-PV-375{
+                    margin-left: 15% !important;
+                    margin-top: -2% !important;
+                    width:43% !important;
+                }
+                .reset_btn-PV-375{
+                       margin-top: 24px !important;
+                       margin-bottom:21% !important;
+                }
+                
+                .PV-375{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-PV-375:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-PV-375{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-PV-375{
+                    
+                    padding-right:20px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:100% !important;
+                }
+	}
+         /* Display device( I Phone 5) 375 ends*/
+         
+          /* Display device( I Phone 5) 667 start*/
+          @media  screen and (width:667px) {
+		
+               .pvFAmnt-667{
+                  margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+              
+              
+              
+              div.hide4Mobile {
+			display:none;
+		}
+                .a-PV-month-667{
+                   
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                    right: -10px;
+                    margin-left: 520px !important;
+                }
+                .right-badge-PV-667{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:476px;
+                    padding-right: 12px !important;
+                }
+                
+                .a-PV-expt-PV-667{
+                     margin-left: 525px            !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .mob-padding-PV-667{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-PV-667{
+                   /* margin-left: 15% !important;
+                    margin-top: -7% !important;
+                    width:43% !important; */
+                    
+                    margin-left: 34% !important;
+                    margin-top: 5% !important;
+                    width: 20% !important;
+                    
+                    
+                }
+                .reset_btn-PV-667{
+                      margin-top: 22px !important;
+                      margin-bottom: 9% !important;
+                }
+                
+                .PV-667{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-PV-667:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-PV-667{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-PV-667{
+                    
+                    padding-right:20px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 125px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:200px !important;
+                }
+	}
+         /* Display device( I Phone 5) 667 ends*/
+         
+         
+         /* Display device( I Phone 5) 414 start*/
+          @media  screen and (width:414px) {
+	
+              
+               .pvFAmnt-414{
+                  margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+              
+              div.hide4Mobile {
+			display:none;
+		}
+                .a-PV-month-414{
+                   
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                    right: -10px;
+                    margin-left: 265px !important;
+                }
+                .right-badge-PV-414{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:224px;
+                    padding-right: 12px !important;
+                }
+                
+                .a-PV-expt-PV-414{
+                     margin-left: 273px                 !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .mob-padding-PV-414{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-PV-414{
+                   /* margin-left: 15% !important;
+                    margin-top: -7% !important;
+                    width:43% !important; */
+                    
+                    margin-left: 26% !important;
+                    margin-top: 9% !important;
+                    width: 29% !important;
+                    
+                    
+                }
+                .reset_btn-PV-414{
+                       margin-top: 23px !important;
+                       margin-bottom:  9% !important;
+                }
+                
+                .PV-414{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-PV-414:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-PV-414{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-PV-414{
+                    
+                    padding-right:19px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px!important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:100% !important;
+                }
+	}
+         /* Display device( I Phone 5) 667 ends*/
+         
+          /* Display device( I Phone 5) 736 start*/
+           @media  screen and (width:736px) {
+		
+               
+               .pvFAmnt-736{
+                   margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+               div.hide4Mobile {
+			display:none;
+		}
+                .a-PV-month-736{
+                   
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                    right: -10px;
+                    margin-left: 590px !important;
+                }
+                .right-badge-PV-736{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:545px;
+                    padding-right: 12px !important;
+                }
+                
+                .a-PV-expt-PV-736{
+                     margin-left: 595px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .mob-padding-PV-736{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-PV-736{
+                   /* margin-left: 15% !important;
+                    margin-top: -7% !important;
+                    width:43% !important; */
+                    
+                    margin-left: 30% !important;
+                    margin-top: 5% !important;
+                    width: 29% !important;
+                    
+                    
+                }
+                .reset_btn-PV-736{
+                      margin-top: 18px !important;
+                      margin-bottom: 8% !important;
+                }
+                
+                .PV-736{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-PV-736:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-PV-736{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-PV-736{
+                    
+                    padding-right:20px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                     padding-left: 120px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:200 !important;
+                }
+	}
+         /* Display device( I Phone 5) 736 ends*/
+         
+         
+         /* Display device( I Phone 5) 768 start*/
+           @media  screen and (width:768px) {
+		
+               .pvFAmnt-768{
+                   margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+               .mblsize768
+               {
+                   width: 50% !important;
+               }
+               
+              #pvresult{
+               
+               margin-top:500px; 
+           }
+               
+               
+               div.hide4Mobile {
+			display:none;
+		}
+                .a-PV-month-768{
+                   
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                    right: -10px;
+                    margin-left: 185px !important;
+                }
+                .right-badge-PV-768{
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 8px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:142px;
+                }
+                
+                .a-PV-expt-PV-768{
+                     margin-left: 232px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .mob-padding-PV-768{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-PV-768{
+                   /* margin-left: 15% !important;
+                    margin-top: -7% !important;
+                    width:43% !important; */
+                    
+                    margin-left: 45% !important;
+                    margin-top: 9% !important;
+                    width: 29% !important;
+                    
+                    
+                }
+                .reset_btn-PV-768{
+                       margin-top: 29px !important;
+                       margin-bottom: 9% !important;
+                }
+                
+                .PV-768{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-PV-768:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-PV-768{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-PV-768{
+                    
+                    padding-right:19px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                     padding-left: 120px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:200 !important;
+                }
+	}
+         /* Display device( I Phone 5) 768 ends*/
+         
+         
+        /* Display device( I Phone 5) 1024 start*/
+           @media  screen and (width:1024px) {
+		
+               .card .content {
+                    background-color: rgba(0, 0, 0, 0);
+                    box-shadow: none;
+                    padding: 1px 5px 20px;
+                }
+                
+                .cover{
+                    height: 183px !important;
+                }
+               
+               
+               
+               
+               #pvresult{
+               
+              /* margin-top:500px; */ 
+           }
+               .pvFAmnt-1024{
+                   margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+               .mblsize768
+               {
+                   width: 50% !important;
+               }
+               
+/*               #result{
+                   
+                   margin-top:400px !important;
+               }*/
+               
+               
+               div.hide4Mobile {
+			display:none !important;
+		}
+                .a-PV-month-1024{
+                   
+                    margin-left: 315px !important;
+                    margin-top:0px !important;
+                    position: absolute;
+                    right: -10px;
+                }
+                .right-badge-PV-1024{
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 9px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:267px;
+                }
+                
+                .a-PV-expt-PV-1024{
+                     margin-left: 232px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .mob-padding-PV-1024{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-PV-1024{
+                   /* margin-left: 15% !important;
+                    margin-top: -7% !important;
+                    width:43% !important; */
+                    
+                    margin-left: 45% !important;
+                    margin-top: 8% !important;
+                    width: 29% !important;
+                    
+                    
+                }
+                .reset_btn-PV-1024{
+                       margin-top: 22px !important;
+                       margin-bottom: 6% !important;
+                }
+                
+                .PV-1024{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-PV-1024:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-PV-1024{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-PV-1024{
+                    
+                    padding-right:18px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                     padding-left: 120px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:200 !important;
+                }
+	}
+         /* Display device( I Phone 5) 1024 ends*/ 
+         
+         
+         
+         
+        
+      /*-------- PV end here--------------  */       
+             
+@media  screen and (width: 500px)   {
+		
+    
+               .pvFAmnt-500{
+                  margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+    div.hide4Mobile {
+			display:none;
+		}
+                
+/*                  div.modal-dialog
+                  {
+                      width:100% !important;
+                      
+                  }*/
+                a.tooltipFilter{
+                    margin-left: 220px !important;
+                    top:6px !important;
+                }
+                  
+                 /*  div#result
+                  {
+                      width:100% !important;
+                      
+                  }*/
+		
+	}
+        
+       
+     /* @media  screen and (min-width: 768px), only screen and (max-device-width: 768px){
+		div.hide4Mobile {
+			display:none !important;
+		}
+                
+               div.mblSize {
+			 width: 50% !important;
+		} 
+               
+                
+                /*#chrtPi{display: none};
+
+                
+                 
+                  div.modal-dialog
+                  {
+                      width:100% !important;
+                      
+                  }
+		
+	}  
+        */
+        
+        
+     /*  @media (max-width: 360px) {
+            .modal-dialog { width: 360px !important; }
+          }*/
+        
+        
+        .smallResultDisplay{
+            margin-left:7% !important;
+            display: table !important;
+            
+        }
+        
+        .resizeTextbox{
+            margin-left:172px !important;
+            
+        }
+        
+        .setSmallMargnResultDiv{
+            
+            padding-top:10px;margin-left:50px !important;
+            
+        }
+        
+         .setBigMargnResultDiv{
+            
+            padding-top:10px;margin-left:70px !important;
+            
+        }
+        
+        
+       /* .RemovesmallResultDisplay{
+         
+            display: none !important;
+            
+        }*/
+        
+        
+        .SipOmtereAlgin
+        {
+            padding-left:100px;
+        }
+        
+ /*vinod calculators ends*/       

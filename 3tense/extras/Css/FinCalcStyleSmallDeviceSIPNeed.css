@@ -1,0 +1,1668 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 5, 2017, 12:09:27 PM
+    Author     : vinod
+*/
+            /*vinod calculators*/
+
+             a.tooltipFilterNeed {
+                 position: absolute;
+                left: 21px;
+                 top: 50px; 
+                 left: 10px; 
+                margin-top: -38px;
+                margin-left: 5px;
+            }
+            
+            
+            CSS for ToolTip 
+            a.tooltipFilterNeed {
+                position: absolute; 
+                left: 30px;
+                top: 50px; left: 10px; 
+                margin-top: 3px; 
+                margin-left: 5px;     
+            }
+             
+            a.tooltipFilterNeed:hover span {
+                opacity: 1; 
+                visibility: visible; 
+                z-index:99;     
+            }
+            a.tooltipFilterNeed span {
+                padding: 13px; top: 22px; 
+                min-width: 220px; 
+                max-width: 150px; 
+                max-width: 400px;
+                background-color: #337ab7; 
+                color: #FFF;
+                height: auto; 
+                border-radius: 5px; 
+                opacity: 0; 
+                right: 0; 
+                position:absolute; visibility: hidden;
+                word-wrap: break-word; -webkit-transition: all 0.5s;
+                -moz-transition: all 0.5s; -ms-transition: all 0.5s;
+                -o-transition: all 0.5s; transition: all 0.5s;
+                border:1px solid #666666; line-height:18px;
+            }
+            
+            
+            
+          .right-badge-Need{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px ;
+                    margin-left: 133px ;
+                }  
+          
+            .tb-Need 
+            {
+                padding-right: 15px ;
+                
+            }
+            
+           
+            
+            
+            
+        /*-------- Need start here--------------  */     
+       @media  screen and (width: 360px)  {
+		
+           
+           
+           
+           div.hide4Mobile {
+			display:none;
+		}
+                .a-Need-month-360{
+                    margin-left: 220px !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-Need-360{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 170px !important;
+                }
+                .mob-padding-Need-360{
+                    padding-right: 10px !important;
+                }
+                
+               .calculate_btn-Need-360{
+                    margin-left: 15% !important;
+                    margin-top: 5% !important;
+                    width:50% !important;
+                }
+                .reset_btn-Need-360{
+                    margin-top: 25px !important;
+                    margin-bottom:  15% !important;
+                }
+                .a-Need-expt-360{
+                     margin-left: 212px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                }
+               
+        
+                .right-badge:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+                
+                #Pichart{
+                    
+                    display:none;
+                }
+                
+               .NeedFAmnt-360{
+                   margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+                
+                .aMnt-Need-360{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-Need-360{
+                    
+                    padding-right:19px  !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .resultSIPNeedBtn{
+                    padding-left:50px !important;
+                }
+    
+                
+	}
+        
+        
+        
+        
+         
+        /* display 412 start */  
+          @media  screen and (width: 412px) {
+		
+              #Pichart{                    
+                    display:none;
+                }
+                
+               .NeedFAmnt-412{
+                    margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+              
+              div.hide4Mobile {
+			display:none;
+		}
+                .a-Need-month-412{
+                    margin-left: 272px !important;
+                    top:16px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-Need-412{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left: 222px;
+                }
+                .mob-padding-Need-412{
+                    padding-right: 20px !important;
+                }
+                
+                .calculate_btn-Need-412{
+                    margin-left: 15% !important;
+                    margin-top: 5% !important;
+                    width:50% !important;
+                }
+                .reset_btn-Need-412{
+                    margin-top: 28px !important;
+                    margin-bottom: 15% !important;
+                }
+		
+                .a-Need-expt-sip-412{
+                     margin-left: 262px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                }
+               
+                .right-badge-Need-412:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-Need-412{
+                    padding-right: 10px !important;
+                }
+                
+                .aMnt-Need-412{
+                    
+                        margin-left: 269px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-Need-412{
+                    
+                    padding-right:19px !important;
+                }
+                #TblFutureVal{
+                    display: none;
+                }
+                 #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .resultSIPNeedBtn{
+                    padding-left:65px !important;
+                }
+                
+	}
+        /*display 412 end */
+        
+          /* device size  640 start*/
+       @media  screen and (width: 640px) {
+		#Pichart{                    
+                    display:none;
+                }
+           
+           .NeedFAmnt-640{
+                    margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+           
+           div.hide4Mobile {
+			display:none;
+		}
+                .a-Need-month-640{
+                    margin-left: 500px !important;
+                    top:16px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                
+                
+                #MonthSIP-o-meter-month-640
+                {
+                    margin-top: 0px !important; 
+                    
+                }
+                
+                .right-badge-Need-640{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left: 450px;
+                }
+                .mob-padding-Need-month-640{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-Need-month-640{
+                    margin-left: 28% !important;
+                    margin-top: 5% !important;
+                    width:50% !important;
+                }
+                .reset_btn-Need-month-640{
+                    margin-top: 25px !important;
+                    margin-bottom: 0% !important;
+                }
+                .a-Need-expt-640{
+                     margin-left: 490px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                }
+               
+        
+                .right-badge-o-meter-month-640:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-o-meter-month-640{
+                    padding-right: 10px !important;
+                }
+                
+                .Need-640{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+                
+                .calculate_btn-Need-640{
+                      margin-left: 15% !important;
+                      margin-top: 0% !important;
+                       width: 30% !important;
+                }
+                .reset_btn-Need-640{
+                    margin-top: 27px !important;
+                    margin-bottom: 15% !important;
+                }
+                
+                
+                
+                
+                
+                
+                
+                .aMnt-o-meter-month-640{
+                    
+                        margin-left: 498px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-Need-640{
+                    
+                    padding-right:19px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+
+                .resultSIPNeedBtn{
+                    padding-left:180px !important;
+                }
+                
+    
+                
+	}        
+        /*device size 640 ends here */
+        
+        
+          /* Display device 684 start*/
+          @media  screen and (width:684px) {
+		#Pichart{                    
+                    display:none;
+                }
+              
+              .NeedFAmnt-684{
+                  margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+              
+              
+              div.hide4Mobile {
+			display:none;
+		}
+                .a-Need-month-684{
+                    margin-left: 544px  !important;
+                    top:16px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-Need-684{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left: 494px;
+                }
+                .mob-padding-Need-684{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-Need-684{
+                    margin-left: 28% !important;
+                    margin-top: 0% !important;
+                    width:30% !important;
+                }
+                .reset_btn-Need-684{
+                       margin-top: 24px !important;
+                       margin-bottom: 14% !important;
+                }
+                .a-Need-expt-Need-684{
+                     margin-left: 542px  !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .Need-684{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-Need-684:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-Need-684{
+                    padding-right: 10px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-Need-684{
+                    
+                    padding-right:19px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 120px !important;
+                    
+                }
+	}
+        /*Display device 684 end  */
+        
+         /* Display device 732 start*/
+          @media  screen and (width:732px) {
+		
+              #Pichart{                    
+                    display:none;
+                }
+              
+              .NeedFAmnt-732{
+                   margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+              
+              
+              
+              div.hide4Mobile {
+			display:none;
+		}
+                .a-Need-month-732{
+                    margin-left: 592px  !important;
+                    top:16px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-Need-732{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left: 542px;
+                }
+                .mob-padding-Need-732{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-Need-732{
+                    margin-left: 28% !important;
+                    margin-top: 0% !important;
+                    width:30% !important;
+                }
+                .reset_btn-Need-732{
+                       margin-top: 24px !important;
+                       margin-bottom: 14%  !important;
+                }
+                .a-Need-expt-Need-732{
+                     margin-left: 589px    !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .Need-732{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-Need-732:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-Need-732{
+                    padding-right: 10px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-Need-732{
+                    
+                    padding-right:19px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 120px !important;
+                    
+                }
+                .resultSIPNeedBtn{
+                    padding-left:150px !important;
+                }
+	}
+        /*Display device 684 end  */
+        
+        
+        
+        /* Display device( I Phone 5) 320 start*/
+        
+         @media  screen and (width:320px) {
+		
+             #Pichart{                    
+                    display:none;
+                }
+             
+             .NeedFAmnt-320{
+                   margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+             
+             
+             div.hide4Mobile {
+			display:none;
+		}
+                .a-Need-month-320{
+                   
+                    top:6px !important;
+                    margin-top:16px !important;
+                    position: absolute;
+                        right: -10px;
+                }
+                .right-badge-Need-320{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    left: -4px;
+                }
+                .mob-padding-Need-320{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-Need-320{
+                    margin-left: 15% !important;
+                    margin-top: 0% !important;
+                    width:43% !important;
+                }
+                .reset_btn-Need-320{
+                       margin-top: 24px !important;
+                       margin-bottom: 22% !important;
+                }
+                .a-Need-expt-Need-320{
+                     margin-left: 179px      !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .Need-320{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-Need-320:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-Need-320{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-Need-320{
+                    
+                    padding-right:20px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:100% !important;
+                }
+	}
+        
+        /* Display device( I Phone 5) 320 ends*/
+        
+        
+         /* Display device( I Phone 5) 568 start*/
+          @media  screen and (width:568px) {
+		
+              #Pichart{                    
+                    display:none;
+                }
+              
+              
+              .NeedFAmnt-568{
+                  margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+              
+              
+              div.hide4Mobile {
+			display:none;
+		}
+                .a-Need-month-568{
+                   
+                    top:16px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                    right: -10px;
+                    margin-left: 423px !important;
+                }
+                .right-badge-Need-568{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:378px
+                }
+                .mob-padding-Need-568{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-Need-568{
+                   /* margin-left: 15% !important;
+                    margin-top: 0% !important;
+                    width:43% !important;*/
+                    
+                    margin-left: 28% !important;
+                     margin-top: 5% !important;
+                     width: 28% !important;
+                }
+                .reset_btn-Need-568{
+                         margin-top: 22px !important;
+                         margin-bottom: 10% !important;
+                }
+                .a-Need-expt-Need-568{
+                     margin-left: 427px            !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .Need-568{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-Need-568:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-Need-568{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-Need-568{
+                    
+                    padding-right:19px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 125px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:200px !important;
+                }
+	}
+        
+         /* Display device( I Phone 5) 568 ends*/
+        
+        /* Display device( I Phone 5) 375 start*/
+          @media  screen and (width:375px) {
+		
+              #Pichart{                    
+                    display:none;
+                }
+                
+               .NeedFAmnt-375{
+                   margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+              
+                div.hide4Mobile {
+        			display:none;
+        		}
+                .a-Need-month-375{
+                   
+                    top:16px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                    right: -10px;
+                    margin-left: 227px !important;
+                }
+                .right-badge-Need-375{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:184px;
+                }
+                
+                .a-Need-expt-Need-375{
+                     margin-left: 233px            !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .mob-padding-Need-375{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-Need-375{
+                    margin-left: 15% !important;
+                    margin-top: -2% !important;
+                    width:43% !important;
+                }
+                .reset_btn-Need-375{
+                       margin-top: 24px !important;
+                       margin-bottom:21% !important;
+                }
+                
+                .Need-375{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-Need-375:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-Need-375{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-Need-375{
+                    
+                    padding-right:20px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:100% !important;
+                }
+                .resultSIPNeedBtn{
+                    padding-left:50px !important;
+                }
+	}
+         /* Display device( I Phone 5) 375 ends*/
+         
+          /* Display device( I Phone 5) 667 start*/
+          @media  screen and (width:667px) {
+		
+              #Pichart{                    
+                    display:none;
+                }
+              
+               .NeedFAmnt-667{
+                  margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+              
+              
+              
+              div.hide4Mobile {
+			display:none;
+		}
+                .a-Need-month-667{
+                   
+                    margin-left: 520px !important;
+                    margin-top: 7px !important;
+                    position: absolute;
+                    right: -10px;
+                }
+                .right-badge-Need-667{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:476px;
+                }
+                
+                .a-Need-expt-Need-667{
+                     margin-left: 525px            !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .mob-padding-Need-667{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-Need-667{
+                   /* margin-left: 15% !important;
+                    margin-top: -7% !important;
+                    width:43% !important; */
+                    
+                    margin-left: 28% !important;
+                    margin-top: 5% !important;
+                    width: 28% !important;
+                    
+                    
+                }
+                .reset_btn-Need-667{
+                      margin-top: 22px !important;
+                      margin-bottom: 9% !important;
+                }
+                
+                .Need-667{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-Need-667:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-Need-667{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-Need-667{
+                    
+                    padding-right:20px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 125px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:200px !important;
+                }
+
+                .resultSIPNeedBtn{
+                    padding-left:110px !important;
+                }
+	}
+         /* Display device( I Phone 5) 667 ends*/
+         
+         
+         /* Display device( I Phone 5) 414 start*/
+          @media  screen and (width:414px) {
+	  #Pichart{                    
+                    display:none;
+                }
+              
+               .NeedFAmnt-414{
+                    margin-left: 45px !important;
+                    margin-top:  0px !important; 
+               }
+              
+                div.hide4Mobile {
+        			display:none;
+        		}
+                .a-Need-month-414{                   
+                    top:16px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                    right: -10px;
+                    margin-left: 267px !important;
+                }
+                .right-badge-Need-414{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:224px;
+                }
+                
+                .a-Need-expt-Need-414{
+                     margin-left: 273px                 !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .mob-padding-Need-414{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-Need-414{
+                   /* margin-left: 15% !important;
+                    margin-top: -7% !important;
+                    width:43% !important; */
+                    
+                    margin-left: 26% !important;
+                    margin-top: 9% !important;
+                    width: 29% !important;
+                    
+                    
+                }
+                .reset_btn-Need-414{
+                       margin-top: 23px !important;
+                       margin-bottom:  9% !important;
+                }
+                
+                .Need-414{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-Need-414:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-Need-414{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-Need-414{
+                    
+                    padding-right:19px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px!important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:100% !important;
+                    
+                }
+                .resultSIPNeedBtn{
+                    padding-left:60px !important;
+                }
+	}
+         /* Display device( I Phone 5) 667 ends*/
+         
+          /* Display device( I Phone 5) 736 start*/
+           @media  screen and (width:736px) {
+		
+               #Pichart{                    
+                    display:none;
+                }
+               
+               .NeedFAmnt-736{
+                   margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+               div.hide4Mobile {
+			display:none;
+		}
+                .a-Need-month-736{
+                   
+                    top:6px !important;
+                    margin-top:16px !important;
+                    position: absolute;
+                    margin-left: 590px !important;
+                    right: -10px;
+                }
+                .right-badge-Need-736{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:545px;
+                }
+                
+                .a-Need-expt-Need-736{
+                     margin-left: 595px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .mob-padding-Need-736{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-Need-736{
+                   /* margin-left: 15% !important;
+                    margin-top: -7% !important;
+                    width:43% !important; */
+                    
+                    margin-left: 26% !important;
+                    margin-top: 5% !important;
+                    width: 29% !important;
+                    
+                    
+                }
+                .reset_btn-Need-736{
+                      margin-top: 20px !important;
+                      margin-bottom: 8% !important;
+                }
+                
+                .Need-736{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-Need-736:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-Need-736{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-Need-736{
+                    
+                    padding-right:20px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                     padding-left: 120px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:200 !important;
+                }
+                 .resultSIPNeedBtn{
+                    padding-left:205px !important;
+                }
+	}
+         /* Display device( I Phone 5) 736 ends*/
+         
+         
+         /* Display device( I Phone 5) 768 start*/
+           @media  screen and (width:768px) {
+		#Pichart{                    
+                    display:none;
+                }
+               .NeedFAmnt-768{
+                   margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+               .mblsize768
+               {
+                   width: 50% !important;
+               }
+               .mbsmsize
+               {
+                   width: 42% !important;
+               }
+               
+              #pvresult{
+               
+               margin-top:500px; 
+           }
+               
+               
+               div.hide4Mobile {
+			display:none;
+		}
+                .a-Need-month-768{                   
+                    top:16px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                    right: -10px;
+                    margin-left: 188px !important;
+                }
+                .right-badge-Need-768{
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 8px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:142px;
+                }
+                
+                .a-Need-expt-Need-768{
+                     margin-left: 232px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .mob-padding-Need-768{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-Need-768{
+                   /* margin-left: 15% !important;
+                    margin-top: -7% !important;
+                    width:43% !important; */
+                    
+                    margin-left: 47% !important;
+                    margin-top: 9% !important;
+                    width: 29% !important;
+                    
+                    
+                }
+                .reset_btn-Need-768{
+                       margin-top: 23px !important;
+                       margin-bottom: 9% !important;
+                }
+                
+                .Need-768{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-Need-768:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-Need-768{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-Need-768{
+                    
+                    padding-right:19px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                     padding-left: 120px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:200 !important;
+                }
+
+                 .resultSIPNeedBtn{
+                    padding-left:133px !important;
+                }
+	}
+         /* Display device( I Phone 5) 768 ends*/
+         
+         
+        /* Display device( I Phone 5) 1024 start*/
+           @media  screen and (width:1024px) {
+		
+               .card .content {
+                    background-color: rgba(0, 0, 0, 0);
+                    box-shadow: none;
+                    padding: 1px 5px 20px;
+                }
+                
+                .cover{
+                    height: 183px !important;
+                }
+               
+               
+               
+               
+               #pvresult{
+               
+              /* margin-top:500px; */ 
+           }
+               .NeedFAmnt-1024{
+                   margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+               .mblsize768
+               {
+                   width: 50% !important;
+               }
+               
+               /*#result{
+                   
+                   margin-top:400px !important;
+               }*/
+               
+               
+               div.hide4Mobile {
+			display:none;
+		}
+                .a-Need-month-1024{
+                   
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                    right: -10px;
+                }
+                .right-badge-Need-1024{
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 9px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:126px;
+                }
+                
+                .a-Need-expt-Need-1024{
+                     margin-left: 232px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .mob-padding-Need-1024{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-Need-1024{
+                   /* margin-left: 15% !important;
+                    margin-top: -7% !important;
+                    width:43% !important; */
+                    
+                    margin-left: 56% !important;
+                    margin-top: 9% !important;
+                    width: 29% !important;
+                    
+                    
+                }
+                .reset_btn-Need-1024{
+                       margin-top: 21px !important;
+                       margin-bottom: 6% !important;
+                }
+                
+                .Need-1024{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-Need-1024:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-Need-1024{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-Need-1024{
+                    
+                    padding-right:23px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                     padding-left: 120px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:200 !important;
+                }
+	}
+         /* Display device( I Phone 5) 1024 ends*/ 
+         
+         
+         
+         
+        
+      /*-------- Need end here--------------  */       
+             
+@media  screen and (width: 500px)   {
+		
+    
+               .NeedFAmnt-500{
+                  margin-left: 0px !important;
+                   margin-top:  0px !important; 
+               }
+    div.hide4Mobile {
+			display:none;
+		}
+                
+/*                  div.modal-dialog
+                  {
+                      width:100% !important;
+                      
+                  }*/
+                a.tooltipFilter{
+                    margin-left: 220px !important;
+                    top:6px !important;
+                }
+                  
+                 /*  div#result
+                  {
+                      width:100% !important;
+                      
+                  }*/
+		
+	}
+        
+       
+     /* @media  screen and (min-width: 768px), only screen and (max-device-width: 768px){
+		div.hide4Mobile {
+			display:none !important;
+		}
+                
+               div.mblSize {
+			 width: 50% !important;
+		} 
+               
+                
+                /*#chrtPi{display: none};
+
+                
+                 
+                  div.modal-dialog
+                  {
+                      width:100% !important;
+                      
+                  }
+		
+	}  
+        */
+        
+        
+     /*  @media (max-width: 360px) {
+            .modal-dialog { width: 360px !important; }
+          }*/
+        
+        
+        .smallResultDisplay{
+            margin-left:7% !important;
+            display: table !important;
+            
+        }
+        
+        .resizeTextbox{
+            margin-left:172px !important;
+            
+        }
+        
+        .setSmallMargnResultDiv{
+            
+            padding-top:10px;margin-left:50px !important;
+            
+        }
+        
+         .setBigMargnResultDiv{
+            
+            padding-top:10px;margin-left:70px !important;
+            
+        }
+        
+        
+        /*.RemovesmallResultDisplay{
+         
+            display: none !important;
+            
+        }*/
+        
+        
+        .SipOmtereAlgin
+        {
+            padding-left:100px;
+        }
+        
+ /*vinod calculators ends*/       

@@ -1,0 +1,105 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 5, 2017, 12:09:27 PM
+    Author     : vinod
+*/
+            /*vinod calculators*/
+@media only screen and (max-device-width: 480px) {
+		div.hide4Mobile {
+			display:none;
+		}
+
+                
+                  div.modal-dialog
+                  {
+                      width:0% !important;
+                      
+                  }
+		
+	}
+        
+        
+        @media only screen and (max-device-width: 360px) {
+		div.hide4Mobile {
+			display:none;
+		}
+
+                
+                  div.modal-dialog
+                  {
+                      width:0% !important;
+                      
+                  }
+		
+	}
+        
+        
+      @media only screen and (min-width: 768px), only screen and (max-device-width: 768px){
+		div.hide4Mobile {
+			display:none !important;
+		}
+                
+               div.mblSize {
+			 width: 50% !important;
+		} 
+                #chrtPi{display: none};
+
+                
+                 
+                  div.modal-dialog
+                  {
+                      width:0% !important;
+                      
+                  }
+		
+	}  
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        .smallResultDisplay{
+            margin-left:7% !important;
+            display: table !important;
+            
+        }
+        
+        .resizeTextbox{
+            margin-left:172px !important;
+            
+        }
+        
+        .setSmallMargnResultDiv{
+            
+            padding-top:10px;margin-left:50px !important;
+            
+        }
+        
+         .setBigMargnResultDiv{
+            
+            padding-top:10px;margin-left:70px !important;
+            
+        }
+        
+        
+        .RemovesmallResultDisplay{
+         
+            display: none !important;
+            
+        }
+        
+        
+        .SipOmtereAlgin
+        {
+            padding-left:100px;
+        }
+        
+ /*vinod calculators ends*/       

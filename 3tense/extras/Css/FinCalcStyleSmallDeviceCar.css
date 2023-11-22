@@ -1,0 +1,1467 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 17, 2017, 1:03:25 PM
+    Author     : vinod
+*/
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 16, 2017, 3:24:48 PM
+    Author     : vinod
+*/
+
+ @media  screen and (width: 360px)  {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-Car-cor-360{
+                    margin-left: 220px !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-Car-360{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 170px  !important;
+                    padding-right: 20px !important;
+                }
+                .a-Car-360{
+                     margin-left: 218px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-Car-360{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-Car-360{
+                    margin-left: 15% !important;
+                    margin-top: 5% !important;
+                    width:37% !important;
+                }
+                .reset_btn-Car-360{
+                    margin-top: 24px !important;
+                    margin-bottom: 6% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                }
+               .right-badge:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+               .Car-360{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-Car-360{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .car_op{
+                    margin-left: 0px !important;
+                }
+    
+                
+	}
+        
+        
+        
+        
+         
+        /* display 412 start */  
+          @media  screen and (width: 412px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-Car-cor-412{
+                    margin-left: 272px  !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-Car-412{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 221px !important;
+                    padding-right: 20px !important;
+                }
+                .a-Car-412{
+                     margin-left: 270px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-Car-412{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-Car-412{
+                    margin-left: 24% !important;
+                    margin-top: 5% !important;
+                    width: 32% !important;
+                }
+                .reset_btn-Car-412{
+                   margin-top: 25px !important;
+                    margin-bottom: 4% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                }
+              
+               .Car-412{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-Car-412{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .car_op{
+                    margin-left: 0px !important;
+                }
+                
+	}
+        /*display 412 end */
+        
+          /* device size  640 start*/
+       @media  screen and (width: 640px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-Car-cor-640{
+                    margin-left: 499px  !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-Car-640{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 454px    !important;
+                }
+                .a-Car-640{
+                     margin-left: 498px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-Car-640{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-Car-640{
+                    margin-left: 29% !important;
+                    margin-top: 0% !important;
+                    width:25% !important;
+                }
+                .reset_btn-Car-640{
+                    margin-top: 26px !important;
+                     margin-bottom: 5% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                }
+              
+               .Car-640{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-Car-640{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .car_op{
+                    margin-left: 0px !important;
+                }
+    
+                
+	}        
+        /*device size 640 ends here */
+        
+        
+          /* Display device 684 start*/
+          @media  screen and (width:684px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-Car-cor-684{
+                    margin-left: 543px  !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-Car-684{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 499px !important;
+                }
+                .a-Car-684{
+                     margin-left: 542px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-Car-684{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-Car-684{
+                    margin-left: 29% !important;
+                    margin-top: 4% !important;
+                    width:28% !important;
+                }
+               .reset_btn-Car-684 {
+                       margin-top: 22px !important;
+                       margin-bottom: 0% !important;
+                    }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                }
+              
+               .Car-684{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-Car-684{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .car_op{
+                    margin-left: 0px !important;
+                }
+	}
+        /*Display device 684 end  */
+        
+         /* Display device 732 start*/
+          @media  screen and (width:732px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-Car-cor-732{
+                    margin-left: 591px    !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-Car-732{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 542px !important;
+                    padding-right: 20px !important;
+                }
+                .a-Car-732{
+                     margin-left: 590px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-Car-732{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-Car-732{
+                    margin-left: 28% !important;
+                    margin-top: 4% !important;
+                    width:26% !important;
+                }
+               .reset_btn-Car-732 {
+                margin-top: 23px !important;
+                margin-bottom: 0% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                }
+              
+               .Car-732{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-Car-732{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .car_op{
+                    margin-left: 0px !important;
+                }
+
+	}
+        /*Display device 684 end  */
+        
+        
+        
+        /* Display device( I Phone 5) 320 start*/
+        
+         @media  screen and (width:320px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-Car-cor-320{
+                    margin-left: 179px    !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-Car-320{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 134px   !important;
+                }
+                .a-Car-320{
+                     margin-left: 177px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-Car-320{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-Car-320{
+                       margin-left: 8% !important;
+                        margin-top: 14% !important;
+                        width: 48% !important;
+                }
+               .reset_btn-Car-320 {
+                        margin-top: 24px !important;
+                        margin-bottom: 0% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                    margin-left:0px !important ;
+                }
+              
+               .Car-320{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-Car-320{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .car_op{
+                    margin-left: 0px !important;
+                }
+	}
+        
+        /* Display device( I Phone 5) 320 ends*/
+        
+        
+         /* Display device( I Phone 5) 568 start*/
+          @media  screen and (width:568px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-Car-cor-568{
+                    margin-left: 427px    !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-Car-568{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    /*margin-top: -1px !important;
+                    margin-left: 78px !important;*/
+                  
+                    margin-top: -57px !important;
+                    margin-left: 383px !important;
+                }
+                
+                .mrgnleftYrPurchase{
+                    left: -7px;
+                }
+                .mrgnleftYrExpect{
+                    left: -7px;
+                }
+                .tbiphn{
+                    
+                    right: -4px !important;
+                }
+                .a-Car-568{
+                     margin-left: 429px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-Car-568{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-Car-568{
+                    margin-left: 28% !important;
+                    margin-top: 5% !important;
+                   width:28% !important;
+                }
+               .reset_btn-Car-568 {
+                margin-top: 27px !important;
+                margin-bottom: 1% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                }
+              
+               .Car-568{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-Car-568{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .car_op{
+                    margin-left: 0px !important;
+                }
+	}
+        
+         /* Display device( I Phone 5) 568 ends*/
+        
+        /* Display device( I Phone 5) 375 start*/
+          @media  screen and (width:375px) {
+	div.hide4Mobile {
+			display:none;
+		}
+                .a-Car-cor-375{
+                    margin-left: 236px    !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-Car-375{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 185px   !important;
+                    padding-right: 20px !important;
+                }
+                .a-Car-375{
+                     margin-left: 234px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-Car-375{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-Car-375{
+                       margin-left: 15% !important;
+                        margin-top: 14% !important;
+                        width: 43% !important;
+                }
+               .reset_btn-Car-375 {
+                          margin-top: 24px !important;
+                          margin-bottom: -4% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                    margin-left:0px !important ;
+                }
+              
+               .Car-375{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-Car-375{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .car_op{
+                    margin-left: 0px !important;
+                }
+	}
+         /* Display device( I Phone 5) 375 ends*/
+         
+          /* Display device( I Phone 5) 667 start*/
+          @media  screen and (width:667px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-Car-cor-667{
+                    margin-left: 526px    !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-Car-667{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 477px   !important;
+                    padding-right: 20px !important;
+                }
+                .a-Car-667{
+                     margin-left: 526px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-Car-667{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-Car-667{
+                       margin-left: 29% !important;
+                        margin-top: 13% !important;
+                        width: 28% !important;
+                }
+               .reset_btn-Car-667 {
+                     margin-top: 27px !important;
+                     margin-bottom: -8% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                    margin-left:0px !important ;
+                }
+              
+               .Car-667{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-Car-667{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .car_op{
+                    margin-left: 0px !important;
+                }
+	}
+         /* Display device( I Phone 5) 667 ends*/
+         
+         
+         /* Display device( I Phone 5) 414 start*/
+          @media  screen and (width:414px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-Car-cor-414{
+                    margin-left: 274px    !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-Car-414{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 223px   !important;
+                    padding-right: 20px !important;
+                }
+                .a-Car-414{
+                     margin-left: 272px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-Car-414{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-Car-414{
+                       margin-left: 15% !important;
+                        margin-top: 14% !important;
+                        width: 43% !important;
+                }
+               .reset_btn-Car-414 {
+                 margin-top: 22px !important;
+                margin-bottom: -6% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                    margin-left:0px !important ;
+                }
+              
+               .Car-414{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-Car-414{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .car_op{
+                    margin-left: 0px !important;
+                }
+	}
+         /* Display device( I Phone 5) 667 ends*/
+         
+          /* Display device( I Phone 5) 736 start*/
+           @media  screen and (width:736px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-Car-cor-736{
+                    margin-left: 596px    !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-Car-736{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 545px   !important;
+                    padding-right: 20px !important;
+                }
+                .a-Car-736{
+                     margin-left: 594px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-Car-736{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-Car-736{
+                       margin-left: 30% !important;
+                        margin-top: 13% !important;
+                        width: 28% !important;
+                }
+               .reset_btn-Car-736 {
+                     margin-top: 18px !important;
+                     margin-bottom: -10% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                    margin-left:0px !important ;
+                }
+              
+               .Car-736{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-Car-736{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .car_op{
+                    margin-left: 0px !important;
+                }
+	}
+         /* Display device( I Phone 5) 736 ends*/
+         
+         
+         /* Display device( I Phone 5) 768 start*/
+           @media  screen and (width:768px) {
+		
+               /*new css for iphone */
+               .mblSize
+               {
+                   width:50%;                 
+               }               
+                .mblsm2
+                {
+                    width:42%                   
+                }
+               
+                #resultSIP_Delay
+                {                   
+                    margin-top:500px;
+                }
+               
+              div.hide4Mobile {
+			display:none;
+		}
+                .a-Car-cor-768{
+                    margin-left: 193px    !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-Car-768{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 143px    !important;
+                    padding-right: 20px !important;
+                }
+                .a-Car-768{
+                     margin-left: 191px  !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-Car-768{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-Car-768{
+                       margin-left: 40% !important;
+                        margin-top: 14% !important;
+                        width: 38% !important;
+                }
+               .reset_btn-Car-768 {
+                     margin-top: 21px !important;
+                     margin-bottom: -8%  !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important;                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                    margin-left:0px !important ;
+                }
+              
+               .Car-768{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-Car-768{                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{                   
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;                    
+                }
+                .car_op{
+                    margin-left: 0px !important;
+                }
+	}
+         /* Display device( I Phone 5) 768 ends*/
+         
+         
+         @media  screen and (width:1024px) {
+		
+               /*new css for iphone */
+               .mblSize
+               {
+                   width:50% !important;                 
+               }               
+                .mblsm2
+                {
+                    width:42% !important;                  
+                }
+               
+                #resultSIP_Delay
+                {                   
+                    margin-top:500px;
+                }
+               
+              div.hide4Mobile {
+			display:none;
+		}
+                .a-Car-cor-1024{
+                    margin-left: 193px    !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-Car-1024{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 269px !important;
+                    padding-right: 20px !important;
+                }
+                .a-Car-1024{
+                     margin-left: 191px  !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-Car-1024{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-Car-1024{
+                       margin-left: 45% !important;
+                        margin-top: 13% !important;
+                        width: 28% !important;
+                }
+               .reset_btn-Car-1024 {
+                        margin-top: 18px !important;
+                         margin-bottom: -10% !important;
+                }
+                .car_op{
+                    margin-left: 65px !important;
+                }
+                /* new css for result */
+                
+                .cpvalue1024
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .cphdtxt1024
+                {
+                    margin-left: 0px !important;
+                }
+
+                /*
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important;                    
+                }*/
+                #DIVresult{
+                    padding-left: 0px !important;
+                    margin-left:0px !important ;
+                }
+              
+               .Car-1024{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-Car-1024{                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{                   
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;                    
+                }
+	}
+         
+        

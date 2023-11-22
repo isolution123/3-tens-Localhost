@@ -1,0 +1,1367 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 16, 2017, 3:24:48 PM
+    Author     : vinod
+*/
+
+ @media  screen and (width: 360px)  {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-Delay-cor-360{
+                    margin-left: 220px !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-sip-Delay-360{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 174px  !important;
+                }
+                .a-sip-Delay-360{
+                     margin-left: 218px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-sip-Delay-360{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-sip-Delay-360{
+                    margin-left: 15% !important;
+                    margin-top: 5% !important;
+                    width:37% !important;
+                }
+                .reset_btn-sip-Delay-360{
+                    margin-top: 25px !important;
+                    margin-bottom: 15% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                    margin-left: 0px !important;
+                }
+               .right-badge:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+               .sip-Delay-640{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-sip-Delay-360{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+    
+                
+	}
+        
+        
+        
+        
+         
+        /* display 412 start */  
+          @media  screen and (width: 412px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-Delay-cor-412{
+                    margin-left: 272px  !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-sip-Delay-412{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 226px        !important;
+                }
+                .a-sip-Delay-412{
+                     margin-left: 270px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-sip-Delay-412{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-sip-Delay-412{
+                    margin-left: 25% !important;
+                    margin-top: 4% !important;
+                    width:28% !important;
+                }
+                .reset_btn-sip-Delay-412{
+                    margin-top: 25px !important;
+                    margin-bottom: 15% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                    margin-left: 0px !important;
+                }
+              
+               .sip-Delay-412{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-sip-Delay-412{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                
+	}
+        /*display 412 end */
+        
+          /* device size  640 start*/
+       @media  screen and (width: 640px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-Delay-cor-640{
+                    margin-left: 499px  !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-sip-Delay-640{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 454px    !important;
+                }
+                .a-sip-Delay-640{
+                     margin-left: 498px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-sip-Delay-640{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-sip-Delay-640{
+                    margin-left: 30% !important;
+                    margin-top: 0% !important;
+                    width: 28% !important;
+                }
+                .reset_btn-sip-Delay-640{
+                    margin-top: 26px !important;
+                    margin-bottom: 15% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                }
+              
+               .sip-Delay-640{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-sip-Delay-640{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                
+    
+                
+	}        
+        /*device size 640 ends here */
+        
+        
+          /* Display device 684 start*/
+          @media  screen and (width:684px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-Delay-cor-684{
+                    margin-left: 543px  !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-sip-Delay-684{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 499px        !important;
+                }
+                .a-sip-Delay-684{
+                     margin-left: 542px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-sip-Delay-684{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-sip-Delay-684{
+                    margin-left: 30% !important;
+                    margin-top: 4% !important;
+                    width: 28% !important;
+                }
+               .reset_btn-sip-Delay-684 {
+                    margin-top: 21px !important;
+                    margin-bottom: 10% !important;
+                    }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                }
+              
+               .sip-Delay-684{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-sip-Delay-684{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+	}
+        /*Display device 684 end  */
+        
+         /* Display device 732 start*/
+          @media  screen and (width:732px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-Delay-cor-732{
+                    margin-left: 591px    !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-sip-Delay-732{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 547px   !important;
+                }
+                .a-sip-Delay-732{
+                     margin-left: 590px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-sip-Delay-732{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-sip-Delay-732{
+                    margin-left: 30% !important;
+                    margin-top: 4% !important;
+                    width: 28% !important;
+                }
+               .reset_btn-sip-Delay-732 {
+                margin-top: 24px !important;
+                margin-bottom: 10% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                }
+              
+               .sip-Delay-732{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-sip-Delay-732{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+	}
+        /*Display device 684 end  */
+        
+        
+        
+        /* Display device( I Phone 5) 320 start*/
+        
+         @media  screen and (width:320px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-Delay-cor-320{
+                    margin-left: 179px    !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-sip-Delay-320{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 134px   !important;
+                }
+                .a-sip-Delay-320{
+                     margin-left: 177px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-sip-Delay-320{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-sip-Delay-320{
+                       margin-left: 15% !important;
+                        margin-top: 13% !important;
+                        width: 43% !important;
+                }
+               .reset_btn-sip-Delay-320 {
+                margin-top: 24px !important;
+                margin-bottom: 10% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                    margin-left:0px !important ;
+                }
+              
+               .sip-Delay-320{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-sip-Delay-320{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+	}
+        
+        /* Display device( I Phone 5) 320 ends*/
+        
+        
+         /* Display device( I Phone 5) 568 start*/
+          @media  screen and (width:568px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-Delay-cor-568{
+                    margin-left: 427px    !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-sip-Delay-568{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                   margin-top: -1px !important;
+                  margin-left: 78px !important;
+                }
+                
+                .tbiphn{
+                    
+                    right: -4px !important;
+                }
+                .a-sip-Delay-568{
+                     margin-left: 429px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-sip-Delay-568{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-sip-Delay-568{
+                        margin-left: 30% !important;
+                        margin-top: 4% !important;
+                        width: 28% !important;
+                }
+               .reset_btn-sip-Delay-568 {
+                margin-top: 24px !important;
+                margin-bottom: 11% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                }
+              
+               .sip-Delay-568{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-sip-Delay-568{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+	}
+        
+         /* Display device( I Phone 5) 568 ends*/
+        
+        /* Display device( I Phone 5) 375 start*/
+          @media  screen and (width:375px) {
+	div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-Delay-cor-375{
+                    margin-left: 236px    !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-sip-Delay-375{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 189px   !important;
+                }
+                .a-sip-Delay-375{
+                     margin-left: 234px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-sip-Delay-375{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-sip-Delay-375{
+                       margin-left: 15% !important;
+                        margin-top: 13% !important;
+                        width: 43% !important;
+                }
+               .reset_btn-sip-Delay-375 {
+                    margin-top: 26px !important;
+                    margin-bottom: 7% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                    margin-left:0px !important ;
+                }
+              
+               .sip-Delay-375{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-sip-Delay-375{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+	}
+         /* Display device( I Phone 5) 375 ends*/
+         
+          /* Display device( I Phone 5) 667 start*/
+          @media  screen and (width:667px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-Delay-cor-667{
+                    margin-left: 526px    !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-sip-Delay-667{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 482px   !important;
+                }
+                .a-sip-Delay-667{
+                     margin-left: 526px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-sip-Delay-667{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-sip-Delay-667{
+                    margin-left: 30% !important;
+                    margin-top: 13% !important;
+                    width: 28% !important;
+                }
+               .reset_btn-sip-Delay-667 {
+                 margin-top: 22px !important;
+                margin-bottom: 1% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                    margin-left:0px !important ;
+                }
+              
+               .sip-Delay-667{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-sip-Delay-667{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+	}
+         /* Display device( I Phone 5) 667 ends*/
+         
+         
+         /* Display device( I Phone 5) 414 start*/
+          @media  screen and (width:414px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-Delay-cor-414{
+                    margin-left: 274px    !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-sip-Delay-414{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 228px   !important;
+                }
+                .a-sip-Delay-414{
+                     margin-left: 272px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-sip-Delay-414{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-sip-Delay-414{
+                       margin-left: 15% !important;
+                        margin-top: 13% !important;
+                        width: 43% !important;
+                }
+               .reset_btn-sip-Delay-414 {
+                 margin-top: 21px !important;
+                margin-bottom: 4% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                    margin-left:0px !important ;
+                }
+              
+               .sip-Delay-414{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-sip-Delay-414{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+	}
+         /* Display device( I Phone 5) 667 ends*/
+         
+          /* Display device( I Phone 5) 736 start*/
+           @media  screen and (width:736px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-Delay-cor-736{
+                    margin-left: 596px    !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-sip-Delay-736{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 551px   !important;
+                }
+                .a-sip-Delay-736{
+                     margin-left: 594px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-sip-Delay-736{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-sip-Delay-736{
+                      margin-left: 30% !important;
+                      margin-top: 13% !important;
+                     width: 28% !important;
+                }
+               .reset_btn-sip-Delay-736 {
+                     margin-top: 17px !important;
+                     margin-bottom: 0% !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important; 
+                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                    margin-left:0px !important ;
+                }
+              
+               .sip-Delay-736{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-sip-Delay-736{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+	}
+         /* Display device( I Phone 5) 736 ends*/
+         
+         
+         /* Display device( I Phone 5) 768 start*/
+           @media  screen and (width:768px) {
+		
+               /*new css for iphone */
+               .mblSize
+               {
+                   width:50%;                 
+               }               
+                .mblsm2
+                {
+                    width:42%                   
+                }
+               
+                #resultSIP_Delay
+                {                   
+                    margin-top:500px;
+                }
+               
+              div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-Delay-cor-736{
+                    margin-left: 193px    !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-sip-Delay-736{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 147px    !important;
+                }
+                .a-sip-Delay-736{
+                     margin-left: 191px  !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                     position: absolute;
+                }
+                .mob-padding-sip-Delay-736{
+                    padding-right: 10px !important;
+                }
+               .calculate_btn-sip-Delay-736{
+                         margin-left: 44% !important;
+                         margin-top: 11% !important;
+                         width: 28% !important;
+                }
+               .reset_btn-sip-Delay-736 {
+                     margin-top: 18px !important;
+                     margin-bottom: 4%  !important;
+                }
+                /* new css for result */
+                
+                .value
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                .hedgTxt02
+                {
+                    padding-left: 0px !important;
+                }
+                #LumpsumPv{
+                    width:100% !important;
+                }
+                #MonthlySIPInvest
+                {
+                    width:100% !important; 
+                    
+                }
+                #sipDelayAmntLoose
+                {
+                    width:100% !important; 
+                }
+                #LumpsumDelayAmntLoose
+                {
+                    width:100% !important;                    
+                }
+                #DIVresult{
+                    padding-left: 0px !important;
+                    margin-left:0px !important ;
+                }
+              
+               .sip-Delay-736{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+               .aMnt-sip-Delay-736{                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{                   
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;                    
+                }
+	}
+         /* Display device( I Phone 5) 768 ends*/
+         
+         
+            
+@media  screen and (width: 1024px)   {
+        div.hide4Mobile {
+                display:none !important;
+        }
+
+        .hr1024{
+                margin-left: 100px;
+        }
+        .br1024{
+            
+            padding-left:110px;
+        }
+        
+        
+      .hedgTxt02 {
+         display: block;
+        font-size: 16px;
+        color: #585858;
+        font-weight: normal;
+        padding-bottom: 8px;
+        clear: both;
+        /*margin-left: 100px;*/
+        }
+        /*.value{
+            padding-left:290px !important;
+        }*/
+        .id_1024{
+            padding-left:100px !important;
+        }
+        
+        .resultSIP_Delay-1024
+         {                   
+            margin-top: 0px !important;
+          }
+          
+        .mblsize1024
+        {
+            width:25% !important;
+
+        }
+    
+        
+        .calculate_btn-sip-delay-1024
+        {
+            margin-left: 54% !important;
+            margin-top: 8% !important;
+            margin-bottom: 10% !important;
+        }
+        
+        .a-sip-Delay-cor-1024
+        {
+            margin-left: 321px !important;
+             margin-top: -42px !important;
+            top: 56px;
+        }
+        
+        .sip-Delay-1024
+        {
+            margin-left: 0px !important;
+            margin-top: 0px !important; 
+        }
+        .right-badge-sip-Delay-1024 {
+            display: inline-block;
+            vertical-align: middle;
+            background: #005e9e;
+            color: #fff;
+            font: 16px 'Source Sans Pro';
+            font-weight: 400;
+            height: 40px;
+            text-align: center;
+            padding: 6px;
+            position: relative;
+            margin-top: -57px;
+            margin-left: 272px;
+            }
+        
+      
+
+}

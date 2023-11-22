@@ -1,0 +1,1463 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 5, 2017, 12:09:27 PM
+    Author     : vinod
+*/
+            /*vinod calculators*/
+
+        /*-------- sip-o-meter start here--------------  */     
+       @media  screen and (width: 360px)  {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-o-meter-month-360{
+                    margin-left: 220px !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-sip-o-metere-360{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px !important;
+                    margin-left: 170px !important;
+                    padding-right: 17px !important;
+                }
+                .mob-padding-sip-o-meter-360{
+                    padding-right: 10px !important;
+                }
+                
+               .calculate_btn-sip-o-meter-360{
+                    margin-left: 15% !important;
+                    margin-top: 5% !important;
+                    width:50% !important;
+                }
+                .reset_btn-sip-o-meter-360{
+                    margin-top: 25px !important;
+                    margin-bottom: 5% !important;
+                }
+                .a-sip-o-meter-expt-360{
+                     margin-left: 212px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                }
+               
+        
+                .right-badge:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               
+                
+                .aMnt-sip-o-meter-360{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+    
+                
+	}
+        
+        
+        
+        
+         
+        /* display 412 start */  
+          @media  screen and (width: 412px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-o-meter-month-412{
+                    margin-left: 272px !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-sip-o-meter-412{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left: 222px;
+                    padding-right: 17px !important;
+                }
+                .mob-padding-sip-o-meter-412{
+                    padding-right: 20px !important;
+                }
+                
+                .calculate_btn-sip-o-meter-412{
+                    margin-left: 15% !important;
+                    margin-top: 5% !important;
+                    width:50% !important;
+                }
+                .reset_btn-sip-o-meter-412{
+                    margin-top: 29px !important;
+                    margin-bottom: 5% !important;
+                }
+		
+                .a-sip-o-meter-expt-sip-412{
+                     margin-left: 262px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                }
+               
+                .right-badge-sip-o-meter-412:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-sip-o-meter-412{
+                    padding-right: 10px !important;
+                }
+                
+                .aMnt-sip-o-meter-412{
+                    
+                        margin-left: 269px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                #TblFutureVal{
+                    display: none;
+                }
+                 #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                
+	}
+        /*display 412 end */
+        
+          /* device size  640 start*/
+       @media  screen and (width: 640px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-o-meter-month-640{
+                    margin-left: 500px !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                
+                #galaxys640{
+                    padding-left: 100px !important;
+                }
+                
+                #MonthSIP-o-meter-month-640
+                {
+                    margin-top: 0px !important; 
+                    
+                }
+                
+                
+                .right-badge-o-meter-month-640{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left: 450px;
+                    padding-right: 17px !important;
+                }
+                .mob-padding-o-meter-month-640{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-o-meter-month-640{
+                   margin-left: 27% !important;
+                   margin-top: 0% !important;
+                   width: 28% !important;
+                }
+                .reset_btn-o-meter-month-640{
+                    margin-top: 26px !important;
+                    margin-bottom: 5% !important;
+                }
+                .a-sip-o-meter-expt-640{
+                     margin-left: 490px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                }
+               
+        
+                .right-badge-o-meter-month-640:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-o-meter-month-640{
+                    padding-right: 10px !important;
+                }
+                
+                .sip-o-meter-640{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+                
+                .calculate_btn-sip-o-meter-640{
+                      margin-left: 27% !important;
+                      margin-top: 0% !important;
+                       width: 28% !important;
+                }
+                .reset_btn-sip-o-meter-640{
+                    margin-top: 25px !important;
+                    margin-bottom: 5% !important;
+                }
+                
+                
+                
+                
+                .aMnt-o-meter-month-640{
+                    
+                        margin-left: 498px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                
+    
+                
+	}        
+        /*device size 640 ends here */
+        
+        
+          /* Display device 684 start*/
+          @media  screen and (width:684px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-o-meter-month-684{
+                    margin-left: 544px  !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-sip-o-meter-684{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left: 494px;
+                    padding-right: 17px !important;
+                }
+                .mob-padding-sip-o-meter-684{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-sip-o-meter-684{
+                    margin-left: 29% !important;
+                    margin-top: 0% !important;
+                    width: 28% !important;
+                }
+                .reset_btn-sip-o-meter-684{
+                       margin-top: 24px !important;
+                       margin-bottom: 4% !important;
+                }
+                .a-sip-o-meter-expt-sip-o-meter-684{
+                     margin-left: 542px  !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .sip-o-meter-684{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-sip-o-meter-684:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-sip-o-meter-684{
+                    padding-right: 10px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                .sip_684{
+                    padding-left: 90px !important;
+                }
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 120px !important;
+                    
+                }
+	}
+        /*Display device 684 end  */
+        
+         /* Display device 732 start*/
+          @media  screen and (width:732px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-o-meter-month-732{
+                    margin-left: 592px  !important;
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                }
+                .right-badge-sip-o-meter-732{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left: 542px;
+                    padding-right: 17px !important;
+                }
+                .mob-padding-sip-o-meter-732{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-sip-o-meter-732{
+                   margin-left: 28% !important;
+                   margin-top: 0% !important;
+                   width: 28% !important;
+                }
+                .reset_btn-sip-o-meter-732{
+                       margin-top: 25px !important;
+                       margin-bottom: 4% !important;
+                }
+                .a-sip-o-meter-expt-sip-o-meter-732{
+                     margin-left: 589px    !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .sip-o-meter-732{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-sip-o-meter-732:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-sip-o-meter-732{
+                    padding-right: 10px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:17px !important;
+                }
+                .sip_732{
+                    padding-left: 110px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 120px !important;
+                    
+                }
+	}
+        /*Display device 684 end  */
+        
+        
+        
+        /* Display device( I Phone 5) 320 start*/
+        
+         @media  screen and (width:320px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-o-meter-month-320{
+                   
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                        right: -10px;
+                }
+                .right-badge-sip-o-meter-320{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                   
+                }
+                .mob-padding-sip-o-meter-320{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-sip-o-meter-320{
+                    margin-left: 15% !important;
+                    margin-top: 0% !important;
+                    width:43% !important;
+                }
+                .reset_btn-sip-o-meter-320{
+                       margin-top: 24px !important;
+                       margin-bottom: 12% !important;
+                }
+                .a-sip-o-meter-expt-sip-o-meter-320{
+                     margin-left: 179px      !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .sip-o-meter-320{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-sip-o-meter-320:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-sip-o-meter-320{
+                    padding-right: 6px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb-sip-320{
+                    
+                    padding-right:12px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:100% !important;
+                }
+	}
+        
+        /* Display device( I Phone 5) 320 ends*/
+        
+        
+         /* Display device( I Phone 5) 568 start*/
+          @media  screen and (width:568px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-o-meter-month-568{
+                   
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                        right: -10px;
+                }
+                .right-badge-sip-o-meter-568{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:387px
+                }
+                .mob-padding-sip-o-meter-568{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-sip-o-meter-568{
+                   /* margin-left: 15% !important;
+                    margin-top: 0% !important;
+                    width:43% !important;*/
+                    
+                   margin-left: 27% !important;
+                    margin-top: 5% !important;
+                    width: 28% !important;
+                }
+                .reset_btn-sip-o-meter-568{
+                     margin-top: 58px !important;
+                    margin-bottom: 6% !important;
+                }
+                .a-sip-o-meter-expt-sip-o-meter-568{
+                     margin-left: 427px            !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .sip-o-meter-568{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-sip-o-meter-568:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-sip-o-meter-568{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:8px !important;
+                }
+                .sip_568{
+                    padding-left: 30px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 125px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:200px !important;
+                }
+	}
+        
+         /* Display device( I Phone 5) 568 ends*/
+        
+        /* Display device( I Phone 5) 375 start*/
+          @media  screen and (width:375px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-o-meter-month-375{
+                   
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                        right: -10px;
+                }
+                .right-badge-sip-o-meter-375{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:191px !important;
+                }
+                
+                .a-sip-o-meter-expt-sip-o-meter-375{
+                     margin-left: 233px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .mob-padding-sip-o-meter-375{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-sip-o-meter-375{
+                    margin-left: 15% !important;
+                    margin-top: -2% !important;
+                    width:43% !important;
+                }
+                .reset_btn-sip-o-meter-375{
+                       margin-top: 24px !important;
+                       margin-bottom: 12% !important;
+                }
+                
+                .sip-o-meter-375{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-sip-o-meter-375:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-sip-o-meter-375{
+                    padding-right: 6px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:8px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:100% !important;
+                }
+	}
+         /* Display device( I Phone 5) 375 ends*/
+         
+          /* Display device( I Phone 5) 667 start*/
+          @media  screen and (width:667px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-o-meter-month-667{
+                   
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                        right: -10px;
+                }
+                .right-badge-sip-o-meter-667{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:486px;
+                }
+                
+                .a-sip-o-meter-expt-sip-o-meter-667{
+                     margin-left: 525px            !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .mob-padding-sip-o-meter-667{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-sip-o-meter-667{
+                   /* margin-left: 15% !important;
+                    margin-top: -7% !important;
+                    width:43% !important; */
+                    
+                     margin-left: 27% !important;
+                    margin-top: 5% !important;
+                    width: 28% !important;
+                    
+                    
+                }
+                .reset_btn-sip-o-meter-667{
+                       margin-top: 23px !important;
+                       margin-bottom: -1% !important;
+                }
+                
+                .sip-o-meter-667{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-sip-o-meter-667:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-sip-o-meter-667{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                .sip_736{
+                    padding-left: 80px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:8px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 125px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:200px !important;
+                }
+	}
+         /* Display device( I Phone 5) 667 ends*/
+         
+         
+         /* Display device( I Phone 5) 414 start*/
+          @media  screen and (width:414px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-o-meter-month-414{
+                   
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                        right: -10px;
+                }
+                .right-badge-sip-o-meter-414{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:232px !important;
+                }
+                
+                .a-sip-o-meter-expt-sip-o-meter-414{
+                     margin-left: 273px                 !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .mob-padding-sip-o-meter-414{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-sip-o-meter-414{
+                   /* margin-left: 15% !important;
+                    margin-top: -7% !important;
+                    width:43% !important; */
+                    
+                    margin-left: 26% !important;
+                    margin-top: 9% !important;
+                    width: 29% !important;
+                    
+                    
+                }
+                .reset_btn-sip-o-meter-414{
+                       margin-top: 23px !important;
+                       margin-bottom: -1% !important;
+                }
+                
+                .sip-o-meter-414{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-sip-o-meter-414:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-sip-o-meter-414{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:8px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 0px!important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:100% !important;
+                }
+	}
+         /* Display device( I Phone 5) 667 ends*/
+         
+          /* Display device( I Phone 5) 736 start*/
+           @media  screen and (width:736px) {
+		div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-o-meter-month-736{
+                   
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                        right: -10px;
+                }
+                .right-badge-sip-o-meter-736{
+                   
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:555px;
+                }
+                
+                .a-sip-o-meter-expt-sip-o-meter-736{
+                     margin-left: 595px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .mob-padding-sip-o-meter-736{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-sip-o-meter-736{
+                   /* margin-left: 15% !important;
+                    margin-top: -7% !important;
+                    width:43% !important; */
+                    
+                    margin-left: 27% !important;
+                    margin-top: 5% !important;
+                    width: 28% !important;
+                    
+                    
+                }
+                .reset_btn-sip-o-meter-736{
+                       margin-top: 23px !important;
+                       margin-bottom: -1% !important;
+                }
+                
+                .sip-o-meter-736{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-sip-o-meter-736:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+               .mob-padding-sip-o-meter-736{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:8px !important;
+                }
+                .sip_736{
+                    padding-left: 115px !important;
+                }
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                    padding-left: 120px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:200 !important;
+                }
+	}
+         /* Display device( I Phone 5) 736 ends*/
+         
+         
+         /* Display device( I Phone 5) 768 start*/
+           @media  screen and (width:768px) {
+		
+               .mblsize768
+               {
+                   width: 50% !important;
+               }
+               
+               #result{
+                   
+                   margin-top:400px !important;
+               }
+               
+               
+               div.hide4Mobile {
+			display:none;
+		}
+                .a-sip-o-meter-month-768{
+                   
+                    top:6px !important;
+                    margin-top:6px !important;
+                    position: absolute;
+                    right: -10px;
+                }
+                .right-badge-sip-o-meter-768{
+                    display: inline-block;
+                    vertical-align: middle;
+                    background: #005e9e;
+                    color: #fff;
+                    font: 16px 'Source Sans Pro';
+                    font-weight: 400;
+                    height: 40px;
+                    text-align: center;
+                    padding: 6px;
+                    position: relative;
+                    margin-top: -57px;
+                    margin-left:191px;
+                }
+                
+                .a-sip-o-meter-expt-sip-o-meter-768{
+                     margin-left: 232px !important;
+                     top: 6px !important;
+                     margin-top: 9px !important;
+                    position: absolute;
+                    left: 11px;
+                }
+                .mob-padding-sip-o-meter-768{
+                    padding-right: 20px !important;
+                }
+                
+               .calculate_btn-sip-o-meter-768{
+                   /* margin-left: 15% !important;
+                    margin-top: -7% !important;
+                    width:43% !important; */
+                    
+                    margin-left: 46% !important;
+                    margin-top: 9% !important;
+                    width: 29% !important;
+                    
+                    
+                }
+                .reset_btn-sip-o-meter-768{
+                       margin-top: 29px !important;
+                       margin-bottom: -1% !important;
+                }
+                
+                .sip-o-meter-768{
+                    margin-left: 0px !important; 
+                    margin-top: 0px  !important; 
+                }
+        
+                .right-badge-sip-o-meter-768:before {
+                    content: "";
+                    display: inline-block;
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-style: solid;
+                    border-width: 0 22px 41px 0;
+                    border-color: transparent #005e9e transparent transparent;
+                    right: 97%;
+                    top: 0;
+                }
+                
+				.rsltAlgnCntr768{
+					
+					padding-left: 69px !important;
+				}
+				
+               .mob-padding-sip-o-meter-768{
+                    padding-right: 2px !important;
+                }
+               
+                .aMnt{
+                    
+                        margin-left: 218px !important;
+                        margin-top: -57px !important;
+                }
+                
+                #chrtPi{display: none;}
+                .tb{
+                    
+                    padding-right:8px !important;
+                }
+                
+                #TblFutureVal{display:none;}
+                #fturvalue
+                {
+                     padding-left: 120px !important;
+                    
+                }
+                
+                #tbl_full
+                {
+                    width:200 !important;
+                }
+	}
+         /* Display device( I Phone 5) 768 ends*/
+         
+         
+        
+      /*-------- sip-o-meter end here--------------  */       
+             
+@media  screen and (width: 500px)   {
+		div.hide4Mobile {
+			display:none;
+		}
+                
+/*                  div.modal-dialog
+                  {
+                      width:100% !important;
+                      
+                  }*/
+                a.tooltipFilter{
+                    margin-left: 220px !important;
+                    top:6px !important;
+                }
+                  
+                 /*  div#result
+                  {
+                      width:100% !important;
+                      
+                  }*/
+		
+	}
+        
+		
+		@media  screen and (width: 1024px)   {
+        div.hide4Mobile {
+                display:none !important;
+        }
+
+        .hr1024{
+                margin-left: 100px;
+        }
+        .br1024{
+            
+            padding-left:110px;
+        }
+        
+        
+      .hedgTxt02 {
+         display: block;
+        font-size: 16px;
+        color: #585858;
+        font-weight: normal;
+        padding-bottom: 8px;
+        clear: both;
+        /*margin-left: 100px;*/
+        }
+        /*.value{
+            padding-left:290px !important;
+        }*/
+
+        #fturvalue{
+             padding-left:290px !important;
+        }
+        .sip_1024{
+            padding-left:290px !important;
+        }
+        
+        .resultSIP_Delay-1024
+         {                   
+            margin-top: 0px !important;
+          }
+          
+        .mblsize1024
+        {
+            width:25% !important;
+
+        }
+    
+        
+      /*  .calculate_btn-sip-delay-1024
+        {
+            margin-left: 66% !important;
+            margin-top: 8% !important;
+            margin-bottom: 10% !important;
+        }
+        */
+        .a-sip-o-meter-cor-1024
+        {
+            margin-left: 385px  !important;
+             margin-top: -42px !important;
+            top: 56px;
+            right: -11px;
+        }
+        
+        .sip-Delay-1024
+        {
+            margin-left: 0px !important;
+            margin-top: 0px !important; 
+        }
+        .right-badge-sip-o-1024 {
+            display: inline-block;
+            vertical-align: middle;
+            background: #005e9e;
+            color: #fff;
+            font: 16px 'Source Sans Pro';
+            font-weight: 400;
+            height: 40px;
+            text-align: center;
+            padding: 6px;
+            position: relative;
+            margin-top: -57px;
+            margin-left: 336px;
+            }
+        
+            .txtboxAlgn-1024{
+               margin-left:0px !important; 
+               margin-top:0px !important; 
+            }
+         .tb-1024{
+                    
+                    padding-right:11px !important;
+                }
+				
+				
+				
+		  .calculate_btn-sip-o-1024 {
+				margin-left: 50% !important; 
+				margin-top: 5% !important; 
+				width: 28% !important; 
+		 }
+		 
+		 .resultCntrAlgn-1024{
+			 padding-left:15% !important;
+		 }
+
+}
+		
+		
+   /*    
+@media  screen and (width: 1024px)   {
+        div.hide4Mobile {
+                display:block !important;
+        }
+
+        .mblsize1024
+        {
+            width:25% !important;
+
+        }
+        a.a-sip-o-meter-month-10241{
+            margin-left: 383px !important;
+            margin-top: -40px !important;
+        }
+        a.a-sip-o-meter-month-10242{
+            margin-left: 374px !important;
+            margin-top: -58px !important;
+        }
+        a.a-sip-o-meter-month-10243{
+                margin-left: 382px !important;
+                margin-top: -58px !important;
+        }
+
+        .sip-o-meter-1024{
+           margin-top: 0px !important;
+        }
+        .right-badge-sip-o-meter-1024{
+            margin-left: 337px !important;
+        }
+
+}
+*/
+
+
+
+
+     /* @media  screen and (min-width: 768px), only screen and (max-device-width: 768px){
+		div.hide4Mobile {
+			display:none !important;
+		}
+                
+               div.mblSize {
+			 width: 50% !important;
+		} 
+               
+                
+                /*#chrtPi{display: none};
+
+                
+                 
+                  div.modal-dialog
+                  {
+                      width:100% !important;
+                      
+                  }
+		
+	}  
+        */
+        
+        
+     /*  @media (max-width: 360px) {
+            .modal-dialog { width: 360px !important; }
+          }*/
+        
+        
+        
+        
+        
+        
+        .smallResultDisplay{
+            margin-left:7% !important;
+            display: table !important;
+            
+        }
+        
+        .resizeTextbox{
+            margin-left:172px !important;
+            
+        }
+        
+        .setSmallMargnResultDiv{
+            
+            padding-top:10px;margin-left:50px !important;
+            
+        }
+        
+         .setBigMargnResultDiv{
+            
+            padding-top:10px;margin-left:70px !important;
+            
+        }
+        
+        
+        /*.RemovesmallResultDisplay{
+         
+            display: none !important;
+            
+        }*/
+        
+        
+        .SipOmtereAlgin
+        {
+            padding-left:100px;
+        }
+        
+ /*vinod calculators ends*/       
